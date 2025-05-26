@@ -209,8 +209,11 @@ jobs:
           {
             echo "### All about ESET VPN"
             echo ""
-            echo "[READ HERE](https://t.me/F_NiREvil/2113)"
             echo ""
+            echo "[Android](https://play.google.com/store/apps/details?id=com.eset.vpn)"
+            echo "[Ios](https://apps.apple.com/us/app/eset-home/id1533672833)"
+            echo "[Windows](https://download.eset.com/com/eset/apps/home/vpn/windows/latest/eset_vpn_installer.exe)"
+            echo "[READ HERE](https://t.me/F_NiREvil/2113)"
             echo "---"
             echo ""
             echo "<br><br>"
