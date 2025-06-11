@@ -1,67 +1,4 @@
-# Generated On: Tuesday, 10 June 2025, 22:31 Tehran (UTC+3:30).
-
-> [!CAUTION]
-> Triggered by: workflow_dispatch
-
-<br><br>
-
-### All about ESET VPN
-
-
-[![Generic badge](https://img.shields.io/badge/Download-Android-green.svg)](https://play.google.com/store/apps/details?id=com.eset.vpn)
-[![Generic badge](https://img.shields.io/badge/Download-ios-white.svg)](https://apps.apple.com/us/app/eset-vpn/id6463002278)
-[![Generic badge](https://img.shields.io/badge/Download-windows-blue.svg)](https://download.eset.com/com/eset/apps/home/vpn/windows/latest/eset_vpn_installer.exe)
-  
-
-[READ HERE](https://t.me/F_NiREvil/2113)
-
----
-
-<br><br>
-
-# Generated On: Tuesday, 10 June 2025, 19:48 Tehran (UTC+3:30).
-
-> [!CAUTION]
-> Triggered by: schedule
-
-<br><br>
-
-### All about ESET VPN
-
-
-[![Generic badge](https://img.shields.io/badge/Download-Android-green.svg)](https://play.google.com/store/apps/details?id=com.eset.vpn)
-[![Generic badge](https://img.shields.io/badge/Download-ios-white.svg)](https://apps.apple.com/us/app/eset-vpn/id6463002278)
-[![Generic badge](https://img.shields.io/badge/Download-windows-blue.svg)](https://download.eset.com/com/eset/apps/home/vpn/windows/latest/eset_vpn_installer.exe)
-  
-
-[READ HERE](https://t.me/F_NiREvil/2113)
-
----
-
-<br><br>
-
-# Generated On: Tuesday, 10 June 2025, 11:50 Tehran (UTC+3:30).
-
-> [!CAUTION]
-> Triggered by: schedule
-
-<br><br>
-
-### All about ESET VPN
-
-
-[![Generic badge](https://img.shields.io/badge/Download-Android-green.svg)](https://play.google.com/store/apps/details?id=com.eset.vpn)
-[![Generic badge](https://img.shields.io/badge/Download-ios-white.svg)](https://apps.apple.com/us/app/eset-vpn/id6463002278)
-[![Generic badge](https://img.shields.io/badge/Download-windows-blue.svg)](https://download.eset.com/com/eset/apps/home/vpn/windows/latest/eset_vpn_installer.exe)
-  
-
-[READ HERE](https://t.me/F_NiREvil/2113)
-
----
-
-<br><br>
-
-# Generated On: Tuesday, 10 June 2025, 04:42 Tehran (UTC+3:30).
+# Generated On: Wednesday, 11 June 2025, 04:42 Tehran (UTC+3:30).
 
 > [!CAUTION]
 > Triggered by: schedule
@@ -75,16 +12,16 @@
 > Each code is valid for login on only one device.
 
 ```ruby
-FQW52NO38X
-56YMHL7NN8
-OJQP2745VV
-GG3MW1WVYN
-YQ0HA6YVQ9
-LRZCVLYO3W
-3W1A572QDW
-CZA5WF6N3U
-ZRNS00PD1I
-RTJJU4TEYN
+T79IVL7ZQA
+0VX14T25OD
+R9JNQOIEGV
+RDW9UWXHG7
+66T3DS2N3N
+AD3PH191SM
+ZZ5VGWZMYT
+BE8TY716X8
+53FKKPWS70
+UQ1RTS8H3P
 ```
 
 <br>
@@ -92,11 +29,11 @@ RTJJU4TEYN
 ### ESET SECURITY LICENSE
 
 **Name:** ESET Small Business Security
-**Expiry:** 10.07.2025
+**Expiry:** 11.07.2025
 **License Key:**
 
 ```POV-Ray SDL
-8DWD-XM59-B8GE-SS5P-6P5X
+FFG7-XDH9-DUKC-5N7T-VTVN
 ```
 
 <br>
@@ -106,13 +43,13 @@ RTJJU4TEYN
 **Email:**
 
 ```CSS
-darlin.traevon@fsitip.com
+emanuele.khiyan@fsitip.com
 ```
 
 **Password:**
 
 ```POV-Ray SDL
-ila'}C&``Hb]6"\
+?W;|xOq;/?ZtfQ3j>*F4Z
 ```
 
 <br>
