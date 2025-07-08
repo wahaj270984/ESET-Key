@@ -1,37 +1,9 @@
-# Generated On: Monday, 07 July 2025, 22:32 Tehran (UTC+3:30).
+# Generated On: Tuesday, 08 July 2025, 05:13 Tehran (UTC+3:30).
 
 > [!CAUTION]
-> Triggered by: workflow_dispatch
+> Triggered by: schedule
 
 <br><br>
-
-### ESET ACCOUNT
-
-**Email:**
-
-```CSS
-favian.keyner@fsitip.com
-sosa.blane@fsitip.com
-able.zacharee@fsitip.com
-prayan.argenis@fsitip.com
-drelyn.dyan@fsitip.com
-keontay.dana@fsitip.com
-jaydn.dorien@fsitip.com
-```
-
-**Password:**
-
-```POV-Ray SDL
-9Hn%PRZFE-+un''c
-tsEK>5.%r:20XAe:M
-^Yio-MCjkhm$.1kC/s@|w
-.=Q6#a-w6CHqte/t-ry6
-0.*j"e]S#s3Nf8
-q"u~XA*5'Gw5/lSBc;D>
-38oo34M?shE:{V4mGnc6
-```
-
-<br>
 
 ### All about ESET VPN
 
